@@ -1,3 +1,3 @@
-# cpsc-240
-abraham medina spr. 2022  
-all projects regarding cpsc-240  
+# CPSC-240
+Abraham Medina Spr. 2022  
+All projects completed during cpsc-240  
